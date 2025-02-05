@@ -1,0 +1,1 @@
+This repository contains a demonstration of an uncommon COBOL bug involving the MOVE statement and space handling. The bug results in an unexpected space being appended to a variable under certain conditions. The solution demonstrates how to correctly handle spaces using a different approach.
